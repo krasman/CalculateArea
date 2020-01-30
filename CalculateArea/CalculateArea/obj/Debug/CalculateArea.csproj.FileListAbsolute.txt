@@ -1,0 +1,8 @@
+C:\Users\Zver\source\repos\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe.config
+C:\Users\Zver\source\repos\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe
+C:\Users\Zver\source\repos\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Users\Zver\source\repos\CalculateArea\CalculateArea\bin\Debug\FigureArea.dll
+C:\Users\Zver\source\repos\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.CopyComplete
+C:\Users\Zver\source\repos\CalculateArea\CalculateArea\obj\Debug\CalculateArea.exe
+C:\Users\Zver\source\repos\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb
